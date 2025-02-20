@@ -12,3 +12,13 @@ function  somar ()
 console.log (num1+num2);
 }
 
+function mult(a,b){
+
+    return a * b
+
+}
+
+
+console.log(mult(10,10))
+
+console.log("Cadastro correto!")

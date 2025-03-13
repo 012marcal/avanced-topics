@@ -45,13 +45,11 @@ console.log("5"-2)
 console.log("4"+1)
 console.log("dois" * "tres")
 
+function fodase() {
 
+    let a= alert("Num1 : ")
 
-let x,y;
+    console.log(a)
+}
 
-x = prompt("number um: ")
-y = prompt("number dois: ")
-
-let result = x * y 
-
-console.log(result)
+fodase();
